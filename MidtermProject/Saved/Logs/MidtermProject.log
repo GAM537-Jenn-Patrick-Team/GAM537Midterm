@@ -823,3 +823,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.16-04.25.39:842][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.10.16-04.26.08:053][639]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={631CAA05-4B75-3B63-3D74-E0ACE42D1DC2}
 [2020.10.16-04.26.08:053][639]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4B8EC00A-40E0-10EF-42B5-C5BCEE257197}
+[2020.10.16-04.28.08:453][998]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={ECF9A768-4B7D-D4B8-DBD3-6DB5C6839365}
