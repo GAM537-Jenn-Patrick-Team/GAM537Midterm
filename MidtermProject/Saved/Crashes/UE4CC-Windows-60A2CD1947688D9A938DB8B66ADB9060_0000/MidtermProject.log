@@ -1,0 +1,915 @@
+﻿Log file open, 10/21/20 19:31:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MidtermProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.130847
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2020.10.21-23.31.04:840][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.21-23.31.04:840][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.21-23.31.04:841][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2020.10.21-23.31.04:841][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2020.10.21-23.31.04:846][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.21-23.31.04:846][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.21-23.31.04:847][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.21-23.31.04:848][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.21-23.31.04:849][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.21-23.31.04:849][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.21-23.31.04:849][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.21-23.31.04:849][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:849][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.21-23.31.04:849][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.21-23.31.04:849][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.21-23.31.04:849][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.21-23.31.04:857][  0]LogHAL: Display: Platform has ~ 8 GB [8461193216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.21-23.31.04:857][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.21-23.31.04:857][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.21-23.31.04:857][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.21-23.31.04:858][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.21-23.31.04:859][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2020.10.21-23.31.04:860][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.21-23.31.04:860][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.21-23.31.04:861][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.21-23.31.04:861][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.21-23.31.04:861][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2020.10.21-23.31.04:861][  0]LogInit: Computer: LAPTOP-GP953MF5
+[2020.10.21-23.31.04:861][  0]LogInit: User: Strawberry
+[2020.10.21-23.31.04:861][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.21-23.31.04:861][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.21-23.31.04:861][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.10.21-23.31.04:861][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.21-23.31.04:861][  0]LogMemory: Process Physical Memory: 101.86 MB used, 101.86 MB peak
+[2020.10.21-23.31.04:861][  0]LogMemory: Process Virtual Memory: 99.10 MB used, 99.10 MB peak
+[2020.10.21-23.31.04:862][  0]LogMemory: Physical Memory: 6723.59 MB used,  1345.64 MB free, 8069.22 MB total
+[2020.10.21-23.31.04:862][  0]LogMemory: Virtual Memory: 4666.98 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.10.21-23.31.04:872][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.21-23.31.04:917][  0]LogInit: Using OS detected language (en-US).
+[2020.10.21-23.31.04:917][  0]LogInit: Using OS detected locale (en-CA).
+[2020.10.21-23.31.04:919][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.21-23.31.05:173][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.21-23.31.05:249][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.21-23.31.05:249][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.21-23.31.05:539][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.21-23.31.05:539][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.21-23.31.05:630][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.10.21-23.31.05:630][  0]LogD3D11RHI:       128/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.10.21-23.31.05:635][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.21-23.31.05:635][  0]LogD3D11RHI:       0/0/4034 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.21-23.31.05:635][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.21-23.31.05:643][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.21-23.31.05:643][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.21-23.31.05:643][  0]LogWindows: EnumDisplayDevices:
+[2020.10.21-23.31.05:644][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.10.21-23.31.05:645][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.10.21-23.31.05:646][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.10.21-23.31.05:647][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.10.21-23.31.05:647][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2020.10.21-23.31.05:647][  0]LogD3D11RHI:   Driver Version: 23.20.16.5038 (internal:23.20.16.5038, unified:23.20.16.5038)
+[2020.10.21-23.31.05:647][  0]LogD3D11RHI:      Driver Date: 4-18-2018
+[2020.10.21-23.31.05:647][  0]LogRHI: Texture pool is 1501 MB (70% of 2145 MB)
+[2020.10.21-23.31.05:729][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.21-23.31.05:736][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.10.21-23.31.06:244][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.10.21-23.31.06:259][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.10.21-23.31.06:277][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.10.21-23.31.06:293][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.10.21-23.31.06:317][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.10.21-23.31.06:335][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.10.21-23.31.06:352][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.21-23.31.06:369][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.10.21-23.31.06:378][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.10.21-23.31.06:435][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.10.21-23.31.06:439][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.10.21-23.31.06:476][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.10.21-23.31.06:476][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.10.21-23.31.06:499][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.10.21-23.31.06:499][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.10.21-23.31.06:511][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.10.21-23.31.06:521][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.21-23.31.06:531][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.10.21-23.31.06:550][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.10.21-23.31.06:586][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.10.21-23.31.06:586][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.10.21-23.31.06:586][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.21-23.31.06:607][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.21-23.31.06:705][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Intermediate/Shaders/WorkingDirectory/19664/).
+[2020.10.21-23.31.06:705][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Strawberry/AppData/Local/Temp/UnrealShaderWorkingDir/085338D842F75C3728C666930B3A72FB/'.
+[2020.10.21-23.31.06:709][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.21-23.31.06:710][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.21-23.31.06:710][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.21-23.31.07:438][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.21-23.31.07:492][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/Strawberry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.10.21-23.31.07:492][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Strawberry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.10.21-23.31.07:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.21-23.31.07:492][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.21-23.31.07:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.21-23.31.07:492][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.21-23.31.07:504][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.21-23.31.07:505][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.21-23.31.07:505][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.21-23.31.07:506][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Strawberry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.21-23.31.07:506][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.21-23.31.07:506][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.21-23.31.07:532][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.21-23.31.07:535][  0]LogSlate: Using FreeType 2.6.0
+[2020.10.21-23.31.07:536][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.21-23.31.07:605][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.10.21-23.31.07:968][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.21-23.31.08:162][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.21-23.31.08:162][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.21-23.31.08:162][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.21-23.31.08:162][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.21-23.31.08:162][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.21-23.31.08:173][  0]LogNetVersion: MidtermProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1385175343)
+[2020.10.21-23.31.08:711][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.081875 seconds
+[2020.10.21-23.31.08:718][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.10.21-23.31.08:718][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.10.21-23.31.08:718][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.21-23.31.09:861][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.21-23.31.09:865][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.21-23.31.09:936][  0]SourceControl: Source control is disabled
+[2020.10.21-23.31.09:937][  0]SourceControl: Source control is disabled
+[2020.10.21-23.31.09:939][  0]SourceControl: Source control is disabled
+[2020.10.21-23.31.09:940][  0]SourceControl: Source control is disabled
+[2020.10.21-23.31.10:079][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.21-23.31.10:284][  0]LogOcInput: OculusInput pre-init called
+[2020.10.21-23.31.10:296][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.21-23.31.10:297][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.21-23.31.10:381][  0]LogEngine: Initializing Engine...
+[2020.10.21-23.31.10:382][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.21-23.31.10:383][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.21-23.31.10:641][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.21-23.31.10:661][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.21-23.31.10:916][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.21-23.31.11:426][  0]LogInit: FAudioDevice initialized.
+[2020.10.21-23.31.11:426][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.21-23.31.11:505][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Strawberry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.10.21-23.31.11:512][  0]LogInit: Texture streaming: Enabled
+[2020.10.21-23.31.11:542][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.21-23.31.11:542][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.21-23.31.11:550][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.21-23.31.11:651][  0]LogInit: Transaction tracking system initialized
+[2020.10.21-23.31.11:711][  0]BlueprintLog: New page: Editor Load
+[2020.10.21-23.31.11:848][  0]LocalizationService: Localization service is disabled
+[2020.10.21-23.31.12:233][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/' took 0.03s
+[2020.10.21-23.31.12:233][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.21-23.31.12:234][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.21-23.31.12:541][  0]SourceControl: Source control is disabled
+[2020.10.21-23.31.12:541][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.21-23.31.12:542][  0]LightingResults: New page: Lighting Build
+[2020.10.21-23.31.12:548][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-23.31.12:548][  0]MapCheck: New page: Map Check
+[2020.10.21-23.31.12:548][  0]LightingResults: New page: Lighting Build
+[2020.10.21-23.31.12:581][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.10.21-23.31.12:898][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.21-23.31.12:906][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.21-23.31.12:938][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.10.21-23.31.12:938][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.21-23.31.12:938][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.309ms to complete.
+[2020.10.21-23.31.12:939][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.397
+[2020.10.21-23.31.13:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-23.31.13:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-23.31.13:188][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-23.31.13:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.21-23.31.13:229][  0]LogCollectionManager: Loaded 0 collections in 0.004818 seconds
+[2020.10.21-23.31.13:262][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Collections/' took 0.00s
+[2020.10.21-23.31.13:262][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/Developers/Strawberry/Collections/' took 0.00s
+[2020.10.21-23.31.13:262][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/Collections/' took 0.00s
+[2020.10.21-23.31.13:262][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.10.21-23.31.13:275][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2863 classes and 680 folders.
+[2020.10.21-23.31.13:295][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.21-23.31.13:800][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.10.21-23.31.13:819][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.10.21-23.31.14:041][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.21-23.31.14:043][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.21-23.31.14:060][  0]LogSlate: Took 0.007664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.21-23.31.14:309][  0]LogRenderer: Reallocating scene render targets to support 836x316 Format 10 NumSamples 1 (Frame:1).
+[2020.10.21-23.31.14:783][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.21-23.31.14:783][  0]LogLoad: (Engine Initialization) Total time: 12.78 seconds
+[2020.10.21-23.31.14:783][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.21-23.31.14:858][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.21-23.31.14:909][  0]LogSlate: Took 0.009350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.21-23.31.15:781][  8]LogAssetRegistry: Asset discovery search completed in 8.1771 seconds
+[2020.10.21-23.31.15:787][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2020.10.21-23.31.15:787][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2020.10.21-23.31.26:369][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.21-23.31.33:716][780]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.21-23.31.33:727][780]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Character/CharacterTutorial.CharacterTutorial
+[2020.10.21-23.31.34:245][780]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.10.21-23.31.35:518][780]LogSlate: Took 0.007912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.21-23.31.37:025][781]LogSlate: Took 0.012955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.21-23.31.57:022][710]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.21-23.32.03:023][869]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.10.21-23.32.03:126][869]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-23.32.06:085][932]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Character/Tutorial_Character.Tutorial_Character
+[2020.10.21-23.32.10:647][167]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-23.32.10:712][167]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Character/Tutorial_Character.Tutorial_Character
+[2020.10.21-23.32.14:814][385]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4B666E65-47D5-3A51-A22C-71B546369DF1}
+[2020.10.21-23.32.14:814][385]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B3E581A8-4FBE-1A5A-0AA1-C8B545D820CB}
+[2020.10.21-23.32.15:418][421]LogRenderer: Reallocating scene render targets to support 904x540 Format 10 NumSamples 1 (Frame:1).
+[2020.10.21-23.32.22:320][685]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-23.32.26:516][880]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Character/TutorialCharacter_AnimPB.TutorialCharacter_AnimPB
+[2020.10.21-23.32.26:653][880]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0050 seconds. Added 1 classes and 2 folders.
+[2020.10.21-23.32.27:181][880]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.21-23.32.27:205][880]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2020.10.21-23.32.35:860][176]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-23.32.35:877][176]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-23.32.36:147][176]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-23.32.39:420][369]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.21-23.32.39:420][369]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.21-23.32.49:507][762]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.21-23.32.49:560][762]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.10.21-23.32.49:586][762]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.10.21-23.32.51:226][762]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2020.10.21-23.32.51:630][762]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.10.21-23.32.53:733][762]LogAIModule: Creating AISystem for world StarterMap
+[2020.10.21-23.32.54:367][762]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2020.10.21-23.32.54:367][762]LogObjectTools: Currently 6 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_10, /Engine/Transient.World_11
+[2020.10.21-23.32.54:740][762]LogUObjectHash: Compacting FUObjectHashTables data took   9.35ms
+[2020.10.21-23.34.32:099][762]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.21-23.34.35:499][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.10.21-23.34.35:532][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.10.21-23.34.35:561][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.21-23.34.35:587][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.10.21-23.34.35:610][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.35:636][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.21-23.34.35:661][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.10.21-23.34.35:684][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.10.21-23.34.35:713][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.10.21-23.34.35:749][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.10.21-23.34.35:773][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.35:800][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.21-23.34.35:825][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.21-23.34.35:850][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.35:879][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.21-23.34.35:904][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.21-23.34.35:930][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.21-23.34.35:960][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.21-23.34.35:985][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.10.21-23.34.36:012][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.21-23.34.36:036][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.36:061][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.36:085][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.21-23.34.36:112][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.36:137][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.10.21-23.34.36:162][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.36:190][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.36:215][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.10.21-23.34.36:243][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.21-23.34.36:269][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.10.21-23.34.36:299][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.10.21-23.34.36:327][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.21-23.34.36:353][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.10.21-23.34.36:383][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.10.21-23.34.36:410][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.10.21-23.34.36:445][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.36:472][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.10.21-23.34.36:507][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.36:532][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.36:560][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.36:595][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.10.21-23.34.36:628][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.36:661][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.36:691][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.36:725][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.36:755][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.36:788][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.36:831][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.36:856][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.36:887][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.36:918][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.10.21-23.34.36:948][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.36:976][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.37:006][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.37:039][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.37:069][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.37:099][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.21-23.34.37:128][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.37:158][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.37:186][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.37:217][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.37:255][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.37:289][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.37:318][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.37:349][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.37:380][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.37:413][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.37:443][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.37:480][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.37:511][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.37:539][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.21-23.34.37:572][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.37:602][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.10.21-23.34.37:635][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.37:670][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.10.21-23.34.37:702][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.37:736][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.21-23.34.37:770][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.37:799][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.37:830][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.37:861][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.37:889][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.37:919][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.10.21-23.34.37:951][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.10.21-23.34.37:982][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.38:014][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.38:043][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.38:076][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.38:112][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.38:146][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.38:176][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.38:211][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.38:242][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.38:270][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.38:302][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.38:333][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.38:366][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.38:404][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.10.21-23.34.38:442][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.10.21-23.34.38:477][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.38:514][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.10.21-23.34.38:551][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.10.21-23.34.38:590][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.10.21-23.34.38:625][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.21-23.34.38:659][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.10.21-23.34.38:695][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.10.21-23.34.38:733][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.10.21-23.34.38:773][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.10.21-23.34.38:812][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.10.21-23.34.38:849][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.38:882][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.21-23.34.38:911][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.38:945][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.38:977][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.21-23.34.39:017][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.39:048][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.10.21-23.34.39:082][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.39:116][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.39:147][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.39:177][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.39:211][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.39:244][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.39:278][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.39:315][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.39:344][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.39:378][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.39:404][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.39:434][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.39:463][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.39:489][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.39:525][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.39:554][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.39:585][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.39:614][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.39:646][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.39:676][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.39:711][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.39:744][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.39:777][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.39:806][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.39:838][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.39:872][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.39:906][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.39:935][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.10.21-23.34.39:964][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.40:000][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.40:029][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.40:063][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.40:092][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.40:126][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.40:155][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.40:188][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.40:220][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.40:252][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.40:287][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.40:318][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.40:346][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.40:378][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.40:410][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.40:442][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.40:476][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.40:511][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.40:542][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.40:573][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.40:603][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.40:635][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.10.21-23.34.40:665][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.40:695][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.40:724][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.40:753][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.40:786][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.40:817][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.40:847][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.40:881][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.40:913][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.40:950][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.10.21-23.34.40:978][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.41:003][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.41:035][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.41:064][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.41:095][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.41:125][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.41:163][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.41:193][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.41:222][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.41:254][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.41:286][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.41:323][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.41:357][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.41:391][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.10.21-23.34.41:426][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.10.21-23.34.41:457][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.10.21-23.34.41:494][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.10.21-23.34.41:531][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.41:571][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.10.21-23.34.41:613][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.10.21-23.34.41:650][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.41:687][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.10.21-23.34.41:726][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.10.21-23.34.41:760][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.10.21-23.34.41:793][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.10.21-23.34.41:828][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.41:860][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.41:896][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.41:924][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.41:954][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.41:988][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.42:021][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.42:058][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.42:086][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:117][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.42:146][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.42:176][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.42:208][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.42:241][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:272][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:307][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.42:341][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.42:373][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.42:401][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.42:434][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.21-23.34.42:463][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:496][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.42:529][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.42:563][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.42:593][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.42:624][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:657][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:691][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.42:726][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.42:758][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.42:791][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.42:824][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.21-23.34.42:853][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:884][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:918][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.42:951][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.42:984][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.43:016][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.21-23.34.43:045][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:073][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.43:110][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.43:140][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.43:175][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:204][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:237][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:267][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.43:298][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.43:326][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.43:357][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.43:396][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.21-23.34.43:428][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.43:461][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:495][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.43:530][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:561][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.43:593][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:623][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:654][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.10.21-23.34.43:690][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.43:720][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.10.21-23.34.43:751][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.43:782][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.43:816][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.21-23.34.43:847][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.10.21-23.34.43:877][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:907][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:939][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.21-23.34.43:969][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.21-23.34.43:999][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.44:042][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.10.21-23.34.44:071][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.10.21-23.34.50:073][932]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.10.21-23.34.53:171][932]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.21-23.35.08:784][932]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/BP_Character/Tutorial_Character.Tutorial_Character
+	Asset Name: /Game/BP_Character/TutorialCharacter_AnimPB.TutorialCharacter_AnimPB
+	Asset Name: /Game/BP_Character/CharacterTutorial.CharacterTutorial
+	Asset Name: /Game/BP_Character/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.10.21-23.35.09:831][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.10.21-23.35.10:016][932]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.21-23.35.11:396][932]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.379 s
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: 
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: Ensure condition failed: CurObject != 0 [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2747]
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: 
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: Stack: 
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc07c9e879 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0757d254 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc06d7ed67 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc07015698 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0700ee14 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c4658b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c4814b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c2c5231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c34b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c3352e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c329c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b724e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b7126df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b727340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b70edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc9b2d5c7d USER32.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc9b2d5672 USER32.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b7287b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c35675c UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c2f3794 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc070a6cd6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0756feae UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffbefa3519c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffbefa3eeae UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffbefa3aaff UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffbefa92a3c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffbefa3bc34 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c4658b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c4814b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c2c5231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c34b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:396][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c3352e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc0c329c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b724e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b7126df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b727340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b70edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc9b2d5c7d USER32.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc9b2d5672 USER32.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc7b7288e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ff789946980 UE4Editor.exe!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ff78995a91c UE4Editor.exe!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ff78995a9fa UE4Editor.exe!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ff78996b92c UE4Editor.exe!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ff78996e60e UE4Editor.exe!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc9b0b7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: [Callstack] 0x00007ffc9b56ce51 ntdll.dll!UnknownFunction []
+[2020.10.21-23.35.11:397][932]LogOutputDevice: Error: 
+[2020.10.21-23.35.11:403][932]LogStats:                SubmitErrorReport -  0.000 s
