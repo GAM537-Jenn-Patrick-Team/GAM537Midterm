@@ -927,3 +927,7 @@ Make sure 'Character_BP_C' has been compiled for  Set characterHealth_ref
 [2020.10.22-20.45.59:140][713]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/ThirdPersonExampleMap_Auto3E6A2AE50475139D35BD95C9BB9F40658.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
 [2020.10.22-20.45.59:146][713]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.395
 [2020.10.22-20.45.59:146][713]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.395
+[2020.10.22-20.48.21:245][537]LogUObjectHash: Compacting FUObjectHashTables data took   9.44ms
+[2020.10.22-20.48.21:348][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.22-20.48.21:869][537]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/ThirdPersonExampleMap77FEC8B847DB90E591D6E59C79FBFE9D.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.22-20.48.21:923][537]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.656
