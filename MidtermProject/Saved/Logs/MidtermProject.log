@@ -549,3 +549,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.22-19.45.41:882][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2020.10.22-19.45.46:725][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
 [2020.10.22-19.46.07:782][994]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={372B7951-4850-455C-B9A5-3CB5300C9005}
+[2020.10.22-19.47.07:929][173]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1880662F-4722-C84A-71B2-C095BC515DD6}
