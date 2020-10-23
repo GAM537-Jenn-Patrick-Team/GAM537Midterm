@@ -1804,3 +1804,71 @@ Make sure 'Character_BP_C' has been compiled for  Set characterHealth_ref
 [2020.10.23-14.23.15:818][537]LogUObjectHash: Compacting FUObjectHashTables data took   9.65ms
 [2020.10.23-14.24.30:709][145]LogUObjectHash: Compacting FUObjectHashTables data took  11.47ms
 [2020.10.23-14.24.31:010][145]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/CharacterAnim_BPA5902E8F4910F4FE796E70B4FC953F3F.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/Character_Blueprints/CharacterAnim_BP.uasset'
+[2020.10.23-14.28.55:237][984]BlueprintLog: New page: Compile CharacterAnim_BP
+[2020.10.23-14.28.55:846][984]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.10.23-14.30.15:251][869]BlueprintLog: New page: Compile CharacterAnim_BP
+[2020.10.23-14.30.15:885][869]LogUObjectHash: Compacting FUObjectHashTables data took   8.62ms
+[2020.10.23-14.31.38:756][862]BlueprintLog: New page: Compile CharacterAnim_BP
+[2020.10.23-14.31.39:362][862]LogUObjectHash: Compacting FUObjectHashTables data took   7.48ms
+[2020.10.23-14.33.29:699][811]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.10.23-14.33.29:699][811]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.050
+[2020.10.23-14.33.29:702][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Blueprints/CharacterAnim_BP] ([1] browsable assets)...
+[2020.10.23-14.33.29:731][811]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Character_Blueprints/CharacterAnim_BP.CharacterAnim_BP]
+[2020.10.23-14.33.29:731][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/CharacterAnim_BP]
+[2020.10.23-14.33.29:882][811]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/CharacterAnim_BP_Auto33C09CBA24E122ABB4E8DA48C66E8845A.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Autosaves/Game/Character_Blueprints/CharacterAnim_BP_Auto3.uasset'
+[2020.10.23-14.33.29:883][811]LogFileHelpers: Auto-saving content packages took 0.182
+[2020.10.23-14.43.30:395][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.10.23-14.43.30:395][572]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.048
+[2020.10.23-14.43.30:398][572]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Blueprints/Character_BP] ([1] browsable assets)...
+[2020.10.23-14.43.30:505][572]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character_Blueprints/Character_BP.Character_BP]
+[2020.10.23-14.43.30:505][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/Character_BP]
+[2020.10.23-14.43.30:659][572]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Character_BP_Auto4C55E489241963A5D0A631D83E67EBB6D.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Autosaves/Game/Character_Blueprints/Character_BP_Auto4.uasset'
+[2020.10.23-14.43.30:662][572]LogFileHelpers: Auto-saving content packages took 0.264
+[2020.10.23-14.44.03:686][762]BlueprintLog: New page: Compile Character_BP
+[2020.10.23-14.44.04:131][762]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.10.23-14.45.12:832][682]BlueprintLog: New page: Compile CharacterHealth
+[2020.10.23-14.45.13:098][682]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.10.23-14.45.14:015][728]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/CharacterHealth6BC29117449B8B449195E8B9382A58BD.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/Character_Blueprints/CharacterHealth.uasset'
+[2020.10.23-14.45.16:503][873]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.23-14.45.16:550][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.23-14.45.16:554][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.23-14.45.16:567][873]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 23, 2020, 6:45:16 AM)
+[2020.10.23-14.45.16:581][873]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-14.45.16:767][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.184689s)
+[2020.10.23-14.45.16:812][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.23-14.45.16:826][873]LogPlayLevel: PIE: World Init took: (0.058708s)
+[2020.10.23-14.45.16:827][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.245543s)
+[2020.10.23-14.45.16:883][873]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.10.23-14.45.16:944][873]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.10.23-14.45.16:972][873]LogInit: FAudioDevice initialized.
+[2020.10.23-14.45.17:003][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-14.45.17:012][873]LogLoad: Game class is 'CharacterGameMode_C'
+[2020.10.23-14.45.17:028][873]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.23-10.45.17
+[2020.10.23-14.45.17:031][873]LogWorld: Bringing up level for play took: 0.017433
+[2020.10.23-14.45.17:041][873]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.10.23-14.45.17:108][873]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.436
+[2020.10.23-14.45.17:117][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.23-14.45.21:852][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.23-14.45.21:854][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.23-14.45.21:855][967]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.23-14.45.21:904][967]LogSlate: Window 'MidtermProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.23-14.45.21:983][967]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-14.45.22:008][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.23-14.45.22:008][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.23-14.45.22:146][967]LogUObjectHash: Compacting FUObjectHashTables data took   8.97ms
+[2020.10.23-14.45.22:180][968]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.10.23-14.45.24:852][123]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/CharacterHealth6604FF7C4894779B7C7BBE8BE62E1430.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/Character_Blueprints/CharacterHealth.uasset'
+[2020.10.23-14.46.18:532][100]BlueprintLog: New page: Compile CharacterAnim_BP
+[2020.10.23-14.46.19:322][100]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.10.23-14.46.20:689][130]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/CharacterAnim_BPED6776C443918246369970BBFACA3B22.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/Character_Blueprints/CharacterAnim_BP.uasset'
+[2020.10.23-14.47.15:365][188]BlueprintLog: New page: Compile CharacterAnim_BP
+[2020.10.23-14.47.15:971][188]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2020.10.23-14.54.53:543][724]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.10.23-14.54.53:543][724]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.055
+[2020.10.23-14.54.53:546][724]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Blueprints/Character_BP] ([1] browsable assets)...
+[2020.10.23-14.54.53:585][724]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Character_Blueprints/Character_BP.Character_BP]
+[2020.10.23-14.54.53:585][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Blueprints/Character_BP]
+[2020.10.23-14.54.53:721][724]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Character_BP_Auto570CEC8244B061E9BF54C27A65CC2E7EC.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Autosaves/Game/Character_Blueprints/Character_BP_Auto5.uasset'
+[2020.10.23-14.54.53:723][724]LogFileHelpers: Auto-saving content packages took 0.177
+[2020.10.23-15.10.17:296][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.10.23-15.10.17:566][760]LogSavePackage: Moving '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Saved/Character_BPD15971064AB63064720C63ACC4708B26.tmp' to '../../../../../../Users/Strawberry/Documents/GitHub/GAM537Midterm/MidtermProject/Content/Character_Blueprints/Character_BP.uasset'
